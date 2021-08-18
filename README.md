@@ -1,8 +1,9 @@
 
 <!-- ## Brave Tech Interview 1000+ 스타 -->
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67247530/129901557-d18b2e0d-837b-494f-bcd3-54861f27f3cd.png" style="border:1px; solid #eaeaea;" width=""/>
+  <img src="https://user-images.githubusercontent.com/67247530/129901863-8f02bad7-9574-4043-9b2d-e6a18466feb1.png" style="border:1px; solid #eaeaea;" width=""/>
 </p>
 
 ------------------
