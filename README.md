@@ -1,6 +1,3 @@
-
-<!-- ## Brave Tech Interview 1000+ 스타 -->
-
 <table id="stats"><tr><td valign="top" width="50%">
   <a href="https://covenant.tistory.com/264">
     <img src="https://user-images.githubusercontent.com/67247530/147849964-8cc2035f-27d7-4d93-94b5-7c8c3e4fb365.png" align="left" style="width: 98%" />
@@ -25,6 +22,16 @@
   <summary>(👈 Open) </summary>
 <br />
 
+<details>
+  <summary>[21. 08. 18] Brave Tech Interview 1000+ 스타 </summary>
+
+<p align="center">
+  <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
+</p>
+
+------------------
+
+</details>
 <details>
   <summary>[21. 06. 05] Brave Tech Interview 1000+ 스타 </summary>
 
@@ -223,9 +230,10 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 - 👨‍💻  11st Server Developer <br />
 - 🦸‍♂️  Member of 용감한 친구들([@brave-people](https://github.com/brave-people)) <br />
 - 🦄  Open source maintainer
-  - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 1400+)
-  - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ 70+)
-  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 1000+)
+  - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 1600+)
+  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 1300+)
+  - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ 90+)
+
 - 🧚 Open source contribution
   - [nhn / tui.editor. fix: typo](https://github.com/nhn/tui.editor/pull/1189)
   - [Klevry / klevr](https://github.com/Klevry/klevr)
@@ -275,7 +283,6 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
 <a href="https://sourcerer.io/koeonyack"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a>
-  
 </code>
 </p>
 -->
@@ -313,13 +320,3 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 <img src="https://img.shields.io/badge/-Slide%20Share-blueviolet?style=for-the-badge" />
 </a>
 </div>
-
-<!--
-<p align="center">
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ooeunz.tistory.com/)](http://covenant.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuns994@gmail.com)](21300035@handong.edu)
-</p>
--->
-
-
-
