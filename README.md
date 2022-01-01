@@ -1,9 +1,13 @@
 
 <!-- ## Brave Tech Interview 1000+ 스타 -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67247530/147849685-2545d4aa-8dd6-4fa1-b6f2-f30d1c3e7d9c.png" style="border:1px; solid #eaeaea;" width=""/>
-</p>
+<table id="stats"><tr><td valign="top" width="48%">
+<img src="https://user-images.githubusercontent.com/67247530/147849830-9489d9a9-cc3f-4462-be38-e451a18abf0d.png" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="48%">
+<img src="https://user-images.githubusercontent.com/67247530/147849831-8afd25be-6f1b-4b63-b566-4b5a066dcb35.png" align="left" style="width: 100%" />
+</td></tr>
+</table>  
 
 > *배너 클릭시 블로그 링크로 이동합니다.
 
