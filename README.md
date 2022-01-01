@@ -2,10 +2,10 @@
 <!-- ## Brave Tech Interview 1000+ 스타 -->
 
 <table id="stats"><tr><td valign="top" width="50%">
-<img src="https://user-images.githubusercontent.com/67247530/147849830-9489d9a9-cc3f-4462-be38-e451a18abf0d.png" align="left" style="width: 98%" />
+<img src="https://user-images.githubusercontent.com/67247530/147849964-8cc2035f-27d7-4d93-94b5-7c8c3e4fb365.png" align="left" style="width: 98%" />
 </td>
 <td valign="top" width="50%">
-<img src="https://user-images.githubusercontent.com/67247530/147849831-8afd25be-6f1b-4b63-b566-4b5a066dcb35.png" align="left" style="width: 98%" />
+<img src="https://user-images.githubusercontent.com/67247530/147849965-7dd8dfe5-1495-426a-ba15-6fb8ed55cc41.png" align="left" style="width: 98%" />
 </td></tr>
 </table>  
 
