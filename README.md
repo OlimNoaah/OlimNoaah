@@ -1,10 +1,11 @@
 
 <!-- ## Brave Tech Interview 1000+ 스타 -->
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67247530/129901863-8f02bad7-9574-4043-9b2d-e6a18466feb1.png" style="border:1px; solid #eaeaea;" width=""/>
+  <img src="https://user-images.githubusercontent.com/67247530/147849685-2545d4aa-8dd6-4fa1-b6f2-f30d1c3e7d9c.png" style="border:1px; solid #eaeaea;" width=""/>
 </p>
+
+> *배너 클릭시 블로그 링크로 이동합니다.
 
 ------------------
 
