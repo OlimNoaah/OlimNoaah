@@ -1,14 +1,18 @@
 <br />
-<table id="stats"><tr><td valign="top" width="50%">
-  <a href="https://covenant.tistory.com/264">
-    <img src="https://user-images.githubusercontent.com/67247530/147849964-8cc2035f-27d7-4d93-94b5-7c8c3e4fb365.png" align="left" style="width: 98%" />
-  </a>
-</td>
-<td valign="top" width="50%">
-  <a href="https://covenant.tistory.com/265">
-    <img src="https://user-images.githubusercontent.com/67247530/147849965-7dd8dfe5-1495-426a-ba15-6fb8ed55cc41.png" align="left" style="width: 98%" />
-  </a>
-</td></tr>
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://covenant.tistory.com/264">
+      <img src="./img/22_01_01_card/banner1.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="https://covenant.tistory.com/265">
+      <img src="./img/22_01_01_card/banner2.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+</tr>
 </table>  
 
 > *배너 클릭시 블로그 링크로 이동합니다.
