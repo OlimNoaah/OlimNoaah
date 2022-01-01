@@ -2,7 +2,7 @@
 <!-- ## Brave Tech Interview 1000+ 스타 -->
 
 <table id="stats"><tr><td valign="top" width="50%">
-  <a href="https://covenant.tistory.com/265">
+  <a href="https://covenant.tistory.com/264">
     <img src="https://user-images.githubusercontent.com/67247530/147849964-8cc2035f-27d7-4d93-94b5-7c8c3e4fb365.png" align="left" style="width: 98%" />
   </a>
 </td>
