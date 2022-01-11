@@ -8,8 +8,10 @@
 </center>
 <br />
 
-11번가 구성원이라면 누구나 자유롭게 가입할 수 있습니다. <br />
+<div align="center">
+11번가 구성원이라면 누구나 자유롭게 가입할 수 있습니다. (가입을 원하신다면? [클릭](https://github.com/11st-corp/.github/issues/1)) <br />
 스터디 & 11번가 구성원과의 프로젝트등의 용도로 자유롭게 이용할 수 있습니다.
+</div>
 
 <br />
 <div align="right">
