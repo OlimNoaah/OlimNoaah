@@ -13,4 +13,11 @@
 <div align="right">
 문의: eyko@sk.com
 </div>
+<br />
+<hr />
+<p align="center">
+    <img width="7%" alt="" src="https://user-images.githubusercontent.com/67247530/148927586-fc1c326d-6891-41ce-9fbb-cfd3b582b812.png">
+</p>
+<hr />
+
 
