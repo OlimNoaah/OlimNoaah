@@ -11,8 +11,8 @@
 
 <br />
 
-11번가 구성원이라면 누구나 자유롭게 가입할 수 있습니다. <br />
-가입을 원하신다면 <a href="https://github.com/11st-corp/.github/issues/1"> [여기로 오세요!]</a>
+11번가 구성원이라면 누구나 자유롭게 가입할 수 있습니다. (
+가입을 원하신다면 <a href="https://github.com/11st-corp/.github/issues/1"> [여기로 오세요!]</a>)
 
 <br />
 
