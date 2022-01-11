@@ -1,3 +1,4 @@
+<hr />
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67247530/148927294-04960d2e-c0b1-4e79-8143-61522c30ef83.png" style="border:1px; solid #eaeaea;" width=""/>
 </p>
