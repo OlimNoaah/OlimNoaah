@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/banner.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
+  <img src="https://user-images.githubusercontent.com/67247530/148927294-04960d2e-c0b1-4e79-8143-61522c30ef83.png" style="border:1px; solid #eaeaea;" width=""/>
 </p>
 <center>
     <h4> 11번가 비공식 오픈소스 저장소입니다. </h4>
