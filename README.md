@@ -10,7 +10,7 @@ NAVER WEBTOON <br />
 <br />
 
 <a href="https://covenant.tistory.com/275">
-  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/naverwebtoon_banner_v2.png?raw=true" width="80%" />
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/naverwebtoon_banner_v2.png?raw=true" width="75%" />
 </a>
 
 *배너 클릭시 블로그 글로 이동됩니다.
