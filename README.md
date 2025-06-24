@@ -62,11 +62,44 @@
 
 > ⏰ **7일 이내 마감**되는 행사들입니다. 서둘러 신청하세요!
 
-| 🗓️ 마감일 | 📌 행사명 | 🏷️ 분류 | 💰 비용 | 📍 장소 |
-|:---:|:---|:---:|:---:|:---:|
-| **06.24(화)** | [실무에서 쓰는 바이브코딩](https://fastcampus.co.kr/devcon_dday2506) | `AI` | 🆓 무료 | 서울 강남 |
-| **06.24(화)** | [AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/308325731/) | `인프라` | 💳 유료 | 서울 강남 |
-| **06.24(화)** | [신한 스퀘어브릿지 청년 해커톤](https://docs.google.com/forms/d/1_Vd2S6fOlYcf0KQveqNdyeeCbX5d51qLLorNE_spknA/viewform) | `대회` | 🆓 무료 | 서울 중구 |
+<div align="center">
+
+### 🔥 **06.24(화) 마감** 🔥
+
+</div>
+
+<details>
+<summary><b>📌 실무에서 쓰는 바이브코딩: AI 중심 개발 환경 구축과 팀 협업 전략의 모든 것</b> - 패스트캠퍼스</summary>
+
+- 🏷️ **분류**: `AI`
+- 💰 **비용**: 🆓 **무료**
+- 📍 **장소**: 🏢 **서울 강남** (오프라인)
+- 📅 **접수기간**: 06.13(금) ~ 06.24(화)
+- 🔗 **신청링크**: https://fastcampus.co.kr/devcon_dday2506
+
+</details>
+
+<details>
+<summary><b>📌 AWSKRUG DevOps 소모임</b> - AWSKRUG</summary>
+
+- 🏷️ **분류**: `인프라`
+- 💰 **비용**: 💳 **유료**
+- 📍 **장소**: 🏢 **서울 강남** (오프라인)
+- 📅 **접수기간**: 06.17(화) ~ 06.24(화)
+- 🔗 **신청링크**: https://www.meetup.com/awskrug/events/308325731/
+
+</details>
+
+<details>
+<summary><b>📌 신한 스퀘어브릿지 청년 해커톤</b> - 신한 스퀘어브릿지</summary>
+
+- 🏷️ **분류**: `대회`
+- 💰 **비용**: 🆓 **무료**
+- 📍 **장소**: 🏢 **서울 중구** (오프라인)
+- 📅 **접수기간**: 06.11(수) ~ 06.24(화)
+- 🔗 **신청링크**: https://docs.google.com/forms/d/1_Vd2S6fOlYcf0KQveqNdyeeCbX5d51qLLorNE_spknA/viewform
+
+</details>
 
 ---
 
@@ -74,29 +107,44 @@
 
 ### 🗓️ 25년 06월
 
-| 날짜 | 행사명 | 분류 | 비용 | 장소 | 주최 | 상태 |
-|:---:|:---|:---:|:---:|:---:|:---|:---:|
-| **06.13-24** | [실무에서 쓰는 바이브코딩: AI 중심 개발 환경 구축과 팀 협업 전략의 모든 것](https://fastcampus.co.kr/devcon_dday2506) | `AI` | 🆓 | 🏢 서울 강남 | 패스트캠퍼스 | ⏰ 마감임박 |
-| **06.17-24** | [AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/308325731/) | `인프라` | 💳 | 🏢 서울 강남 | AWSKRUG | ⏰ 마감임박 |
-| **06.11-24** | [신한 스퀘어브릿지 청년 해커톤](https://docs.google.com/forms/d/1_Vd2S6fOlYcf0KQveqNdyeeCbX5d51qLLorNE_spknA/viewform) | `대회` | 🆓 | 🏢 서울 중구 | 신한 스퀘어브릿지 | ⏰ 마감임박 |
-| **05.26-25** | [NextRise 2025, Seoul](https://www.nextrise.co.kr/ko/about) | `기술일반` | 🆓 | 🏢 서울 강남 | NextRise | 📝 접수중 |
-| **06.17-25** | [AUSG BIGCHAT: 대학생 모임 주최 퍼블릭 빅챗](https://www.meetup.com/awskrug/events/308459192/) | `AI` | 💳 | 🏢 서울 강남 | AWSKRUG | 📝 접수중 |
-| **06.19-25** | [AWSKRUG 아키텍처 #architecture 52번째 소모임](https://www.meetup.com/awskrug/events/308279003) | `클라우드` | 💳 | 🏢 서울 강남 | AWSKRUG | 📝 접수중 |
-| **06.19-25** | [AWSKRUG 아키텍처 #Security 소모임](https://www.meetup.com/awskrug/events/308369358) | `보안` | 💳 | 🏢 서울 강남 | AWSKRUG | 📝 접수중 |
-| **06.12-26** | [2025년 4차 개방형 클라우드 플랫폼 테크 엣지](https://www.onoffmix.com/event/324950) | `교육` `클라우드` | 🆓 | 💻 온라인 | 개방형 클라우드 플랫폼 센터 | 📝 접수중 |
-| **06.24-26** | [AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/) | `클라우드` | 🆓 | 🏢 오프라인 | AWS | 🎯 진행중 |
-| **05.29-25** | [CHANNEL DEVTALK](https://devtalk.channel.io/) | `기술일반` | 🆓 | 💻 온라인 | 채널코퍼레이션 | 🎯 진행중 |
-| **06.09-26** | [Copilot Studio로 IT 인프라 혁신의 시작을 함께하세요.](https://event-us.kr/tdg/event/105727) | `AI` | 🆓 | 💻 온라인 | 티디지(TDG) | 📝 접수중 |
-| **05.30-26** | [개발자를 위한 노코드 활용 세미나](https://event-us.kr/mescius/event/105350) | `AI` | 🆓 | 🏢 서울 서초구 | 메시어스 코리아 | 📝 접수중 |
-| **06.20-26** | [AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/308103986/) | `기술일반` | 💳 | 🏢 서울 성수 | AWSKRUG | 📝 접수중 |
-| **06.12-26** | [2025 오렌지플래닛 온라인 해커톤!](https://slashpage.com/orangeplanet-hackaton) | `대회` | 💳 | 💻🏢 온/오프라인 | 오랜지플래닛 | 📝 접수중 |
-| **06.20-26** | [AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/308369358/) | `보안` | 💳 | 🏢 서울 강남 | AWSKRUG | 📝 접수중 |
-| **05.19-28** | [제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517) | `모임` | 💳 | 🏢 서울 강남 | TSBM | 📝 접수중 |
-| **05.19-28** | [원티드 Career Gathering](https://www.instagram.com/official.bdaa/p/DK1j16shlnR) | `모임` | 💳 | 🏢 서울 강남 | BDA | 📝 접수중 |
-| **05.20-30** | [2025 오픈소스 개발자대회](https://www.allforyoung.com/posts/65275) | `대회` `오픈소스` | 🆓 | 💻🏢 온/오프라인 | 과학기술정보통신부 | 📝 접수중 |
-| **06.13-30** | [AUSG 9기 신규 부원 모집](https://ausg.me/apply) | `동아리` | - | - | AUSG | 📝 접수중 |
-| **06.23-30** | [AWSKRUG 플랫폼엔지니어링 모임 Agentic MCP for EKS Hands-on Lab](https://www.meetup.com/awskrug/events/308274179/) | `모임` | 💳 | 🏢 서울 강남 | AWSKRUG | 📝 접수중 |
-| **06.23-30** | [KDT 한컴 NVIDIA AI ACADEMY 7기](https://eduhancom.com/) | `교육` `AI` | 🆓 | 🏢 경기 성남 | 한컴 | 📝 접수중 |
+<details open>
+<summary><b>⏰ 마감임박 행사 (7일 이내)</b></summary>
+
+> ### 🔥 06.24(화) 마감
+- **[실무에서 쓰는 바이브코딩: AI 중심 개발 환경 구축과 팀 협업 전략의 모든 것](https://fastcampus.co.kr/devcon_dday2506)** `AI` 🆓 패스트캠퍼스
+- **[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/308325731/)** `인프라` 💳 AWSKRUG
+- **[신한 스퀘어브릿지 청년 해커톤](https://docs.google.com/forms/d/1_Vd2S6fOlYcf0KQveqNdyeeCbX5d51qLLorNE_spknA/viewform)** `대회` 🆓 신한 스퀘어브릿지
+
+</details>
+
+<details>
+<summary><b>📝 접수중인 행사</b></summary>
+
+#### 🆓 무료 행사
+- **[NextRise 2025, Seoul](https://www.nextrise.co.kr/ko/about)** `기술일반` (서울 강남) - 05.26~06.25
+- **[2025년 4차 개방형 클라우드 플랫폼 테크 엣지](https://www.onoffmix.com/event/324950)** `교육` `클라우드` (온라인) - 06.12~06.26
+- **[Copilot Studio로 IT 인프라 혁신의 시작을 함께하세요.](https://event-us.kr/tdg/event/105727)** `AI` (온라인) - 06.09~06.26
+- **[개발자를 위한 노코드 활용 세미나](https://event-us.kr/mescius/event/105350)** `AI` (서울 서초구) - 05.30~06.26
+- **[2025 오픈소스 개발자대회](https://www.allforyoung.com/posts/65275)** `대회` `오픈소스` (온/오프라인) - 05.20~06.30
+- **[KDT 한컴 NVIDIA AI ACADEMY 7기](https://eduhancom.com/)** `교육` `AI` (경기 성남) - 06.23~06.30
+
+#### 💳 유료 행사
+- **[AUSG BIGCHAT: 대학생 모임 주최 퍼블릭 빅챗](https://www.meetup.com/awskrug/events/308459192/)** `AI` (서울 강남) - 06.17~06.25
+- **[AWSKRUG 아키텍처 #architecture 52번째 소모임](https://www.meetup.com/awskrug/events/308279003)** `클라우드` (서울 강남) - 06.19~06.25
+- **[AWSKRUG 아키텍처 #Security 소모임](https://www.meetup.com/awskrug/events/308369358)** `보안` (서울 강남) - 06.19~06.25
+- **[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/308103986/)** `기술일반` (서울 성수) - 06.20~06.26
+- **[2025 오렌지플래닛 온라인 해커톤!](https://slashpage.com/orangeplanet-hackaton)** `대회` (온/오프라인) - 06.12~06.26
+- **[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/308369358/)** `보안` (서울 강남) - 06.20~06.26
+- **[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)** `모임` (서울 강남) - 05.19~06.28
+- **[원티드 Career Gathering](https://www.instagram.com/official.bdaa/p/DK1j16shlnR)** `모임` (서울 강남) - 05.19~06.28
+- **[AWSKRUG 플랫폼엔지니어링 모임 Agentic MCP for EKS Hands-on Lab](https://www.meetup.com/awskrug/events/308274179/)** `모임` (서울 강남) - 06.23~06.30
+
+#### 🎯 진행중/기타
+- **[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)** `클라우드` 🆓 (오프라인) - 06.24~06.26
+- **[CHANNEL DEVTALK](https://devtalk.channel.io/)** `기술일반` 🆓 (온라인) - 05.29~06.25
+- **[AUSG 9기 신규 부원 모집](https://ausg.me/apply)** `동아리` - 06.13~06.30
+
+</details>
 
 ### 🗓️ 25년 07월
 
